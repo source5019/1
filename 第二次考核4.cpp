@@ -11,7 +11,7 @@ int sum(int nums[],int target){
 	if(nums[i]+nums[j]==target){
    			if(i<=j){
 			   
-   			printf("ÕûÊıÎª£º%d %d ÏÂ±êÎª£º%d %d\n",nums[i],nums[j],i,j);}
+   			printf("æ•´æ•°ä¸ºï¼›%d %d ä¸‹æ ‡ä¸º%d %d\n",nums[i],nums[j],i,j);}
 }}
 }}
  
